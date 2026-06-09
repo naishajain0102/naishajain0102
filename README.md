@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Naisha 👋
 
-<!--
-**naishajain0102/naishajain0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about entrepreneurship, finance, and analytics.
 
-Here are some ideas to get you started:
+🚀 Founder of The Book Baee, a startup that generated ₹15L+ in revenue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Completed a Business Analytics & Investments internship at Angel One, focused on stockbroking index construction and long-term commodity asset return analysis
+
+🥇 First Place – AI Hackathon, MESA School of Business
+
+🏆 Finalist – TAMS Shark Tank 2025, hosted at PES University, Bengaluru
+
+📚 Currently pursuing the Be10X AI Tools Program
+
+🤝 Open to collaborating on interesting projects and ideas
+
+## Current Interests
+- Business Analytics
+- Financial Markets
+- Entrepreneurship
+- Investment Research
+- Data Analysis
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/naishajain010208/
